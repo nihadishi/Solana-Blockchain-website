@@ -1,0 +1,10 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    @font-face {
+        font-family: helvetica;
+        src: url(/src/fonts/Helvetica.ttf);
+    }
+    font-family: helvetica;
+}
